@@ -1,0 +1,7 @@
+llm_env/
+models/
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
