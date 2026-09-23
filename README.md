@@ -3,8 +3,8 @@
 **Course:** AI (Large Language Model)  
 **Assignment:** 1A – Implementation of Large Language Model Applications  
 **Group Members:**  
-- Student 1: [Your Full Name] – [Student Number p2xxxxx]  
-- Student 2: [Partner Full Name] – [Student Number p2xxxxx]  
+- Student 1: Leong Chon Hou – P2303322 
+- Student 2: Xu Wei Ye - P2319796
 
 **Project Title:** Simple Chatbot using Microsoft Phi-4-mini
 
