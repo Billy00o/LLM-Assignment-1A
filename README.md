@@ -39,7 +39,7 @@ AI_Assignment1A/
 │   └── Phi-4-mini-instruct-Q4_K_M.gguf
 ├── llm_env                              # Virtual environment
 ├── chatbot.py                           # Main chatbot application
-├── test_llm.py                          # Simple unit test
+├── test.py                          # Simple unit test
 ├── requirements.txt
 ├── README.md
 └── RESULTS.md
