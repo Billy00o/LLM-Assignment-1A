@@ -63,19 +63,22 @@ AI_Assignment1A/
 
 ### Step 1: Clone the repository
 ```bash
-git clone [your-github-repo-url]
+git clone https://github.com/Billy00o/LLM-Assignment-1A
 cd LLM_Assignment1A
 
 Step 2: Create and activate virtual environment
 Windows:
-Bashpython -m venv llm_env
+Bash
+python -m venv llm_env
 llm_env\Scripts\activate
 macOS / Linux:
-Bashpython -m venv llm_env
+Bash
+python -m venv llm_env
 source llm_env/bin/activate
 
 Step 3: Install dependencies
-Bashpip install -r requirements.txt
+Bash
+pip install -r requirements.txt
 
 Step 4: Download the model from Hugging Face
 
@@ -88,7 +91,8 @@ Place it inside the models folder
 Rename it to Phi-4-mini-instruct-Q4_K_M.gguf
 
 ## 6. How to Run the chatbot
-Bashpython chatbot.py
+Bash
+python chatbot.py
 
 Example:
 textYou: what is the capital of China
@@ -99,7 +103,8 @@ Goodbye!
 
 ## 7. Testing
 Run the unit test:
-Bashpython test_llm.py
+Bash
+python test.py
 
 Model answer: The capital of France is Paris.
 Test passed!
